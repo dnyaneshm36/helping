@@ -25,7 +25,7 @@ app.register_blueprint(general_bp)
 # Home route
 @app.route('/')
 def hello():
-    return "hello"
+    return "<h1>Welcome to happ ahello</h1>"
 
 # Main
 if __name__ == '__main__':
