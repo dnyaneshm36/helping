@@ -1,0 +1,15 @@
+2e65 6e76 0d0a 656e 762f 2273 656e 6467
+7269 642e 656e 7622 200d 0a73 656e 6467
+7269 642e 656e 760a 7300 6500 6e00 6400
+6700 7200 6900 6400 2e00 6500 6e00 7600
+0d00 0a00 7365 6e64 6772 6964 2e65 6e76
+0a
+myenv/
+.vscode/
+sendgrid.env
+.env
+eml2.py
+eml.py
+eml.pyc
+jwts.py
+templates/planr.html
