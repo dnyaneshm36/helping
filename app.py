@@ -25,7 +25,7 @@ app.register_blueprint(general_bp)
 # Home route
 @app.route('/')
 def hello():
-    return "<h1>Welcome to planr api </h1><h4>dynau</h4>"
+    return "<h1>Welcome to planr api </h1><p>dnyanu<p>"
 
 # Main
 if __name__ == '__main__':
